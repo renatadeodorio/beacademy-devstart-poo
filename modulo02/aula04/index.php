@@ -17,12 +17,8 @@ $g1->setNome('Renan');
 
 $gg1 = new GestorGeral ("rafael@email.com" , "1q2w3e", 9000);
  
-//$us1 = new Usuario ("hacker@email.com" , "1111111");
-
-$clienteVip = new ClienteVip("clientevip@email.com", "123123");
 var_dump ($c1);
 var_dump ($g1);
 var_dump ($gg1);
 var_dump ($clienteVip);
-
 
